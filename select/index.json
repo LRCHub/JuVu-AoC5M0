@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "LOVING TRIP",
+  "base_artist": "yozuca*",
+  "createdAt": "2025-12-04T15:54:59.447843Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LOVING TRIP",
+      "artist": "yozuca*",
+      "has_synced": false,
+      "path": "select/01_LOVING_TRIP_yozuca.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOVING TRIP",
+      "artist": "yozuca*",
+      "has_synced": false,
+      "path": "select/pl_01_LOVING_TRIP_yozuca.txt"
+    }
+  ]
+}
